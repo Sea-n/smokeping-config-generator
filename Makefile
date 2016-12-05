@@ -1,3 +1,3 @@
 all:
-	php gen.php > Targets
+	php generator.php > Targets
 	service smokeping reload
