@@ -1,3 +1,8 @@
+# Requirements
+* PHP 7
+* git
+* make (Optional)
+
 # Usage
 1. Edit config.php
 2. Edit generator.php Line 9, 10 (Optional)
